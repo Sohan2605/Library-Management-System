@@ -4,10 +4,10 @@
 Login Page :-
 ![Screenshot 09-10-2022 13 23 24](https://user-images.githubusercontent.com/112388234/189474737-aa883f64-914f-4cdc-8897-82a1f5117bb3.png)
 
-Home Page:-
+Home Page:-It Covers every activity of Library through home page.
 ![Screenshot 09-10-2022 13 27 35](https://user-images.githubusercontent.com/112388234/189474803-3373b530-621a-45f8-8750-102f296cde95.png)
 
-Manage Books Page:-
+Manage Books Page:-Here we can show every transaction details of students.
 ![Screenshot 09-10-2022 13 28 22](https://user-images.githubusercontent.com/112388234/189474817-ed700f37-b424-4b95-b8b7-ef4b1f744081.png)
 
 Manage Students Page:-
